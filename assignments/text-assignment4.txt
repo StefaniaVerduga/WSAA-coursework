@@ -1,0 +1,3 @@
+This text was made for the assignment 4 for the WSAA module.
+The program should then replace all the instances of the text "Andrew" with your name. 
+Andrew is the lecturer of the module WSAA.
